@@ -1,0 +1,5 @@
+{
+  "name": "Logic Gate Visualizer",
+  "description": "An interactive web application to visualize the behavior of common logic gates. Select a gate, toggle the inputs, and observe the output to understand how they work.",
+  "requestFramePermissions": []
+}
